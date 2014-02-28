@@ -6,7 +6,7 @@ This script can save your time maybe 2 seconds.
 ```sh
 # setup
 git clone git@github.com:koheishingai/nodexecutor.git
-cd codegarage
+cd nodexecutor
 
 # testing
 nodexecutor.bat
